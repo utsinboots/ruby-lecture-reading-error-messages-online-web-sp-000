@@ -1,3 +1,1 @@
-def Hello_World
-  print "hello world"
-end
+Hello_World = "hello world"
