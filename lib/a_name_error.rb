@@ -1,3 +1,3 @@
 def hello_world do
   
-  "hello world"
+  puts "hello world"
