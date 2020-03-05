@@ -1,3 +1,3 @@
-puts "hello world"
-
-name = hello_world()
+def hello_world do
+  
+  "hello world"
