@@ -1,3 +1,3 @@
-def hello_world do
+def hello_world
   
   puts "hello world"
