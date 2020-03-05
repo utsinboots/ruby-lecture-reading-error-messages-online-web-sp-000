@@ -1,3 +1,3 @@
-def Hello_World
+def hello_world
   print "hello world"
 end
